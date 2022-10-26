@@ -1,0 +1,21 @@
+$blue:    #1053b6;
+$indigo:  #4609a9;
+$purple:  #9266e2;
+$pink:    #d6217c;
+$red:     #dc1327;
+$orange:  #c1661c;
+$yellow:  #dfac12;
+$green:   #10e984;
+$teal:    #147a5c;
+$cyan:    #33bfdb;
+
+
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer * .25,
+  2: $spacer * .5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+);
